@@ -111,6 +111,7 @@ section{
     padding-top: 90px;
     padding: 0%;
 }
+
 #Curiosidades h2{
     background-color:#F2B05E;
     padding: 10px;
@@ -159,6 +160,23 @@ section{
     text-align: center;
 }
 
+table{
+    width: 90%;
+    align-items: 20px;
+    border-collapse: collapse;
+    margin: 70px;
+}
+th{
+    background-color: #F2B05E;
+    padding: 1rem;
+    font-size: larger;
+}
+td{
+    color: #D96941;
+    padding: 10px;
+    font-size: large;
+}
+
 #Causos{
     padding-top: 90px;
     padding: 0%;
@@ -194,7 +212,13 @@ section{
     font-size: larger;
     padding-bottom: 25px;
 }
+#Contatos h2{
+    padding-bottom: 15px;
+}
 
+#Contatos p{
+    font-size: large;
+}
 footer{
     background-color: #F2B05E;
 }
