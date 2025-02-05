@@ -120,8 +120,9 @@ section{
 
 .card{
     text-align: center;
+    display: inline-block;
     padding-top: 30px;
-    margin: 30px;   
+    margin: 30px; 
 }
 
 .card img{
@@ -137,7 +138,8 @@ section{
     padding-top: 15px;
     padding-left: 15px;
     padding-right: 15px;
-    margin: 0 60px;
+    margin: 10px 60px;
+    gap: 30px;
 }
 
 .card-img1{
@@ -205,12 +207,14 @@ td{
     padding-top: 15px;
     padding-left: 20px;
     font-size: larger;
+    text-align: center;
 }
 #Habilidades p{
     padding-top: 15px;
     padding-left: 20px;
     font-size: larger;
     padding-bottom: 25px;
+    text-align: center;
 }
 #Contatos h2{
     padding-bottom: 15px;
@@ -225,4 +229,20 @@ footer{
 
 .espaco{
     padding-bottom: 50px;
+}
+
+#espaco{
+    padding: 45px;
+}
+
+#espaco2{
+    padding: 45px;
+}
+
+#espaco3{
+    padding: 45px;
+}
+
+#espaco4{
+    padding: 45px;
 }
