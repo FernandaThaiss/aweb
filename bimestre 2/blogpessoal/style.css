@@ -82,31 +82,30 @@ section{
 .txt{
     padding: 0%;
     padding-bottom: 50px;
-    h3{
-        color: #D96941;
-        background-color: #F2B05E;
-        font-size: 32px;
-        padding:15px;
-    }
-    p{
-        padding: 35px;
-        text-align: center;
-        font-size: larger;
-    }
-    img{
-        margin: 0 80px;
-        padding-top: 14px;
-    }
-
-    .img1{
-        padding-left: 300px;
-        max-width: 564px;
-    }
-    .img2{
-        max-width: 350px;
-    }
+}
+.txt  h3{
+    color: #D96941;
+    background-color: #F2B05E;
+    font-size: 32px;
+    padding:15px;
+}
+.txt p{
+    padding: 35px;
+    text-align: center;
+    font-size: larger;
+}
+.txt img{
+    margin: 0 80px;
+    padding-top: 14px;
 }
 
+.txt .img1{
+    padding-left: 300px;
+    max-width: 564px;
+}
+.txt .img2{
+    max-width: 350px;
+}
 #Curiosidades{
     padding-top: 90px;
     padding: 0%;
