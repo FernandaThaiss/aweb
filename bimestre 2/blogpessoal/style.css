@@ -78,6 +78,24 @@ section{
     color: #D96941;
     background-color: rgba(240, 248, 255, 0.653);
 }
+.botao{
+    padding: 10px 8px;
+    width: 80px;
+    color: #D96941;
+    background: #DFD5DD;
+    border: 1px solid #F2B05E;
+    border-radius: 8px;
+    user-select: none;
+    cursor: pointer;
+}
+.botao:hover{
+    background-color: #F2B05E;
+}
+
+.button{
+    padding-left: 340px;
+    padding-top: 125px;
+}
 
 .txt{
     padding: 0%;
